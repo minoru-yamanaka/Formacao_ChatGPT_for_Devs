@@ -1,6 +1,9 @@
-## O Curso de Formação ChatGPT for Devs: Aprimorando o Desenvolvimento com IA
+
+# Formacao_ChatGPT_for_Devs
 
 ![brasão](icon.png)
+
+## O Curso de Formação ChatGPT for Devs: Aprimorando o Desenvolvimento com IA
 
 **Descrição:**
 
@@ -50,4 +53,3 @@ Este repositório reúne:
 **Juntos, podemos construir uma comunidade vibrante de desenvolvedores que impulsionam o futuro da IA no desenvolvimento de software!**
 
 
-# Formacao_ChatGPT_for_Devs
