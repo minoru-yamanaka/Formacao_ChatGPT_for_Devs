@@ -148,6 +148,7 @@ Prompts Assertivos para ChatGPT
     
     - Prompts Assertivos: https://helpful-jump-17b.notion.site/Prompts-assertivos-121ebbf78f6440d98c58d1509b3e030f?pvs=4
 
+
     - Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo);
 
     - Rooms: caso você esteja inscrito(a) em uma experiência educacional na DIO (como um Bootcamp, por exemplo) você terá acesso ao Rooms. O Rooms é uma ferramenta de bate-papo em tempo real onde todos os inscritos podem interagir, compartilhando dúvidas e dicas (que podem conter imagens e snippets de código-fonte);

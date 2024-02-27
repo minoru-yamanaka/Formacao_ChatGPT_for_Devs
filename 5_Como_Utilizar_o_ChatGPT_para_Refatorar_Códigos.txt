@@ -42,7 +42,9 @@ Como Utilizar o ChatGPT para Refatorar Códigos
                 Kebab-case: 
                     Similar ao snake_case, mas com hifens: first-name, meu-nome (utilizado em URLs e nomes de arquivos)
 
-    2.3 Melhorando a organização do seu projeto < parei aqui 
+    2.3 Melhorando a organização do seu projeto 
+
+        converta o código abaixo para utilizar uma estrutura diferente de organização
 
     2.4 Single Responsability com chatgpt
 
