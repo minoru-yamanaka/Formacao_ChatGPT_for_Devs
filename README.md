@@ -1,5 +1,5 @@
 
-# Formacao_ChatGPT_for_Devs
+# Formação ChatGPT for Devs
 
 ![brasão](icon.png)
 
