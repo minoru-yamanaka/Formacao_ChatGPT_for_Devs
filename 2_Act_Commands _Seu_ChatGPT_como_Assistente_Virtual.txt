@@ -1,0 +1,98 @@
+ChatGPT - O Essencial
+Act Commands - Seu ChatGPT como Assistente Virtual
+
+--
+1.1 Luz, Câmera, ação!
+
+    - Ligando as atuações
+
+ Act Commands que todo DEV deveria conhecer
+
+    - Comandos de atuação
+
+        documentação de prompts ->
+            https://github.com/f/awesome-chatgpt-prompts
+
+    - Simulando um Javascript Console
+        Comando de atuação < Act as a Javascript Console >
+            1 dê um input no chatGPT com o < Console > desejado 
+            2 e depois passe o comando ou < code >
+                exemplos: 
+                    console.log("Hello  World!")
+        O chatGPT age como se fosse um interpretador 
+
+    - Nunca mais dependa de máquina Virtual
+        Act as a Linux Terminal -> simula uma máquina Linux 
+ 
+    - Crie um Consultor especialista virtual de UI-UX
+        Atuar com comandos em pt-br 
+
+        Comporte-se como um consultor de UI/UX e sempre me responda tudo com as dimensões da imagem e dicas de como implementar da melhor maneira.
+
+        estou criando um banner para o meu youtube e alguns de modelos de thumbnail
+
+    - Use o chatgpt como banco de dados
+        Act as a SQL terminal
+
+        PASSE:
+        create a table with name, age and description with 10 values randomics
+
+        table name: tbl_users 
+        name: text 
+        age: numeric 
+        description: text 
+
+        RETORNO:
+        CREATE TABLE tbl_users (
+            name TEXT,
+            age NUMERIC, 
+            description TEXT
+            );
+
+        INSERT INTO tbl_users (name, age, description)
+        VALUES
+            ('Alice',   26, 'Likes to read'),
+            ('B0b',     30, 'Enjoys hiklng'),
+            ('Charlie', 42, 'Loves to cook'),
+            ('David',   19, 'Plays guitar'),
+            ('Emily',   27, 'Enjoys yoga'),
+            ('Frank',   38, 'Enjoys yoga'),
+            ( Grace' ,  31, 'Plays tennis'),
+            ('Henry',   45, 'Plays tennis'),           
+            ('Isabel',  23, 'Enjoys palntlng'),
+            ('Jack',    29, 'Likes to code');
+
+        PASSE: select*from tbl_users 
+
+        RETORNO: SELECT*FROM tbl_users;
+
+        PASSE: show me result from 'select* from tbl_users'
+
+        RETORNO:  TABELA fictícia
+
+    -  Commits semânticos com ChatGPT
+        Act as a Commit Message Generator
+        
+        i create a new feature from api to get users
+
+        Act as a Commit Message Generator aways semantic commits
+            gera mensagem com tópicos ssemânicos para o commit do git 
+1.2 Elevando o nível dos Act Commands
+
+    1.2.1 Atuação com Regras
+        Retorno com FeedBacks 
+
+    1.2.2 Ativando o modo tutorial de prompt do chatGPT
+        Act as a Prompt Generator > Retorna o Prompt formaatado mais profissional
+
+        Prompt formatado de forma ideal para retorno melhor 
+
+    1.2.3 Criando uma ferramenta de posicionamento profissional
+        comporto-se como um coach de carreira técnica  
+
+    1.2.4 Criando versões artificiais de figuras famosas
+        Act as  < persona >
+        Comporte-se como <  persona >
+
+    1.2.5 Act commands em ação
+

@@ -1,0 +1,65 @@
+ChatGPT - Uso para Desenvolvedores
+Como Utilizar o ChatGPT para Refatorar Códigos
+
+--
+1 Refatorando com o GPT
+
+    1.1 Criando um refatorador de código
+        Coach de boas práticas 
+        Pente fino 
+    
+    1.2 Refatorador de código
+        Refatoração inteligente 
+
+2 Praticando refatoração
+
+    2.1 Clonando o Projeto
+        projeto < https://github.com/felipeAguiarCode/netflix-clone-2.0 >
+        Refatorar é dar um Upgrade no projeto 
+        git clone do Projeto
+        use extenção LiveServer 
+
+    2.2 Códigos eficientes
+        reescreva o código JAVASCRIPT abaixo de uma maneira mais eficiente e aplicando boas práticas < CODE >
+
+        add ao Prompt: e me explique depois as regras aplicadas
+
+        nota: 
+            Se atentar:
+
+                CamelCase 
+                    Variáveis e métodos em Java, C#, JavaScript e Python
+                    Classes em Java e C#
+
+                snake_case
+                    Variáveis, funções e métodos em Python
+                    Nomes de arquivos e pastas em diversos sistemas
+                    Atributos em linguagens como Ruby e Go
+
+                PascalCase: 
+                    Similar ao CamelCase, mas com a primeira letra maiúscula: FirstName, MeuNome (utilizado em classes em Python)
+
+                Kebab-case: 
+                    Similar ao snake_case, mas com hifens: first-name, meu-nome (utilizado em URLs e nomes de arquivos)
+
+    2.3 Melhorando a organização do seu projeto < parei aqui 
+
+    2.4 Single Responsability com chatgpt
+
+    2.5 Simplificação de código
+
+    2.6 Código Mais legível
+
+    2.7 Aplicar paradigmas de programação
+
+    2.8 Insights de limpeza no seu código
+
+    2.9 Modularizando seu código
+
+    2.10 Conjunto de boas práticas
+
+    2.11 Refatorando a estrutura de pastas e combinando técnicas
+
+3 Sua próxirna jornada
+
+    3.1 Como continuar evoluindo

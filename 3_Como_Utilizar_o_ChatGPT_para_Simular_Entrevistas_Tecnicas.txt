@@ -1,0 +1,39 @@
+ChatGPT - Uso para Desenvolvedores
+Como Utilizar o ChatGPT para Simular Entrevistas Técnicas
+
+--
+
+1  Técnica de Entrevista
+
+    1.1 Entrevistas técnicas
+        simulador de < Entrevistas técnicas >
+
+    1.2 GPT como Entrevistador
+
+        Prompts:
+        Comporte-se como se fosse um entrevistador técnico SÊNIOR EM FRONT-END, ESPECIALISTA EM REACT e me entreviste para uma posição de desenvolvedor Front-end Júnior
+
+        (REGRAS)
+        > Tente manter um diálogo amigável comigo
+        > Me faça 5 perguntas para uma vaga de desenvolvedor front-end júnior
+        > Me faça uma pergunta por vez se possível
+        > Melaça perguntas sobre as temáticas : React, Javascript e CSS
+        > Tente avaliar minhas skills técnicas e minhas soft skilss
+        > Ao final, me dê um feedback sobre minhas respostas
+
+        Responda as quetões como se fosse para uma pessoa real
+
+        Can I use -> site que exibe a compatibilidade de funções e ferramentas nos navegadores  
+
+    1.3 Ajuda para entrevistas técnicas
+        faça README.md com chatGPT
+        Faça um posicionamento nos perfis
+
+    1.4.1 Entre no DNA técnico da empresa desejada
+        Push o repo publico de um projeto em extraia os padrões de arquitetura < organização > e assim gere um documento deste padrão 
+
+    1.4.2 Entre no DNA de soft skills da empresa desejada
+        Dossiê cultura da empresa 
+
+    1.6 Como ir além do do chatgpt
+        Brain Dumps = compartilhamento de processos seletivos 

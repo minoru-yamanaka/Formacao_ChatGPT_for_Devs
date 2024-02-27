@@ -1,0 +1,155 @@
+ChatGPT - O Essencial
+Prompts Assertivos para ChatGPT
+
+--
+
+1 Você não esta usando chatGPT de verdade
+
+    - O Poder de se dominar prompts
+    - Todo super poder tem sua kryptonita
+
+2.1 Prompts Ricos - Explore o Poder do ChatGPT
+    - Prompt Pobre
+    - Prompt Rico com a Técnica FTAE
+
+    # Prompts assertivos
+
+    # Prompt ricos - modelo de perguntas
+
+    ---
+
+    Me `[FUNÇÃO]` um `[TIPO DE TEXTO]` sobre `[assunto]` nesse `[estilo]`
+
+    FTAE
+
+    Função: (escreva/resuma/traduza/crie tópicos)
+ 
+    Tipo de texto: (roteiro/post para blog/artigo/poema/postagem para instagram)
+
+    assunto: (I.A, futebol, música, filme... etc)
+  
+    estilo: (personalidade, escritor, filósofo)
+
+    > Me [crie tópicos] um [um artigo] sobre [macarrão]
+    > Me [escreva] um [TEXTO] sobre [INTELIGÊNCIA ARTIFICIAL]
+
+    # Tom de voz
+
+    ---
+
+    Escreva para quem aquela comunicação deve ser direcionada para calibrar o entendimento e naturalidade da resposta
+
+    Tom de voz: me explique como se fosse (para uma criança de 10 anos, de um jeito mais sênior
+
+    Exemplos:
+
+    Me escreva em formato de carrossel do instagram uma postagem sobre programação com os princpais me explicando o que é DOCKER em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia, `explique como se fosse para uma criança de 10 anos`
+
+    Me escreva em formato de carrossel do instagram uma postagem sobre programação com os princpais me explicando o que é DOCKER em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia, `explique com um tom de voz mais sênior`
+    - Crie e consuma conteúdos artificiais
+    -  Criando tom de voz
+    -  Hack para criar autoridade com o poder da fantasia computacional
+
+2.2 Técnica Prompt 3R
+
+    Resumo , Roteiro e Regras
+
+    - Usando campos semânticos e variáveis no chatGPT
+
+        Me escreva um artigo sobre primeiros passos no Ddocker, em tom de conversa com uma criançaa de 10 anos. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as regras {REGRAS}
+
+        ou 
+
+        Me escreva  um conteúdo em forma de carrosel do instagram sobre o assunto de programação dos principais comandos do Docker. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as regras {REGRAS}
+
+
+        {RESUMO}
+        [autoridade]: Felipe, um deenvolvedor Fullstack
+        [avatar]: Desenvolvedores Júniors 
+        [problema]: Como instalar o Docker
+
+        {REGRAS} 
+        Olá eu sou [autoridade] e vou ajudar o [avatar]
+        Hoje vamos resolver o [problema]
+
+        {ROTEIRO}
+        > Siga o {ROTEIRO} acima e substitua os elementos entre [] por aqueles listados em {RESUMO} acima.
+        > Mantenha o tom e ritmo, mas reescreva as palavras em {ROTEIRO} para que seja diferente do original, expandindo ou mudando conforme necessário. 
+        > Use analogias simples e hipérboles.
+        > Converse utilize  um tom de voz de um desenvolvedor mais sênior.  
+            ou > utilize  um tom de voz para se comunicar com desenvolvedores não experientes 
+
+    - Como ter respostas mais Humanas
+
+        A sua pergunta é um parâmetro 
+
+3 Hack e truques Incríveis do chatGPT
+
+    - Transformando Formatos
+        Me resuma o conteúdo em formato de post carrosel em até 10 slideS < URL >
+
+    - Criando resumos de livros de maneira mais assertiva
+
+        Me escreva sobre sobre o livro < pai rico, pai pobre > em formato de bullet points, em um tom de voz simplificado.
+
+        Me escreva sobre sobre o livro < pai rico, pai pobre > em formato de bullet points, em um tom de voz simplificado, resumindo oss principais capítulos 
+
+            me explique um resumo sobre o capítulo < Capítulo 01 >
+        
+    - Criando um cronograma de estudos adaptado para o seu dia a dia
+        
+        Crie um cronograma sobre Angular dividido em módulos e tópicos, onde eu possa aprender Angular em 21 dias om apeenas 3 horas de estudo por dia.
+
+        Crie um cronograma sobre JavaScript dividido em módulos e tópicos, onde eu possa aprender JavaScript em 30 dias com apeenas 2 horas de estudo por dia.
+
+    - Crie roteiros de estudos baseado em Vagas
+
+        Crie um cronograma de estudos para que consiga estudar e me preparar para a vaga < descrição da vaga >
+
+        Crie um cronograma de estudos com o essencial que eu deveria saber sobre < matéria / o que ser quer estudar > 
+
+    - Como Estudar conteúdos complexos com chatGPT
+
+        Me escreva um artigo resumido sobre < TEMA > em um tom de voz como se estiveesse explicando paara uma criança de 10 anos.
+
+        Me explique como se fosse uma postagem do instagram em 10 slides por uma página nerd usando analogias de Naruto. 
+    
+4 Bem-vindo ao Verdadeiro chatGPT
+
+    - Utilizando Nosso Prompt de maneira efetiva e assertiva
+
+        Função:
+        Tipo de texto:
+        Assunto:
+        Tom de voz:
+
+        Função:
+            me escreva um artigo 
+        Tipo de texto:
+            artigo para LinkdIn
+        Assunto:
+            artigo paraa minha rede de desenvolvedores
+        Tom de voz:
+            informal, para pessoas de tecnologia
+
+        RESUMO 
+        ROTEIRO
+        REGRA 
+     
+    - O poder do sol nas suas mãos
+
+5 Materiais de apoio 
+
+    - Materiais Complementares
+        Nossos materiais complementares e de apoio têm como objetivo apresentar informações para facilitar e enriquecer a sua jornada de aprendizado. Para isso, links úteis (como slides, repositórios e páginas oficiais) serão disponibilizados, além de dicas sobre como se destacar na DIO e no mercado de trabalho.
+
+    - Dicas/Links Úteis
+    Por fim, disponibilizamos alguns links úteis para que você possa se desenvolver ainda mais através de referências oficiais das tecnologias, páginas de documentação e/ou fóruns de discussão relevantes. Nesse contexto, seguem algumas sugestões:
+    
+    - Prompts Assertivos: https://helpful-jump-17b.notion.site/Prompts-assertivos-121ebbf78f6440d98c58d1509b3e030f?pvs=4
+
+    - Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo);
+
+    - Rooms: caso você esteja inscrito(a) em uma experiência educacional na DIO (como um Bootcamp, por exemplo) você terá acesso ao Rooms. O Rooms é uma ferramenta de bate-papo em tempo real onde todos os inscritos podem interagir, compartilhando dúvidas e dicas (que podem conter imagens e snippets de código-fonte);
+
+    - Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância das engines de busca no dia-a-dia de um profissional de TI. Caso não encontre o que procura dentro da DIO, pesquise sobre o assunto (conceito, dúvida, erro etc) na Internet (dê um Google), pois na maioria das vezes você será levado à páginas incríveis como o StackOverflow que salvarão o seu dia.
