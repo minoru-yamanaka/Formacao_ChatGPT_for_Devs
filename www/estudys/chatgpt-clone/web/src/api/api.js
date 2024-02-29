@@ -12,9 +12,13 @@ export const makeRequest = async (message) =>{
 
 */
 
+
+
+/*
+
 import axios from 'axios';
 
-const URL_API = 'http://localhost:5555/api/prompt';
+const URL_API = 'http://localhost:5000/api/prompt';
 
 export const makeRequest = async (message) => {
     try {
@@ -25,5 +29,25 @@ export const makeRequest = async (message) => {
         throw error;
     }
 };
+*/
 
+
+
+
+// Arquivo: makeRequest.js
+
+import axios from 'axios';
+
+const URL_API = "http://localhost:5000/api/prompt";
+
+export const makeRequest = async (message) => {
+    console.log(message);
+    try {
+        const { data } = await axios.post(URL_API, message);
+        return data;
+    } catch (error) {
+        console.error("Error making request:", error);
+        throw error; // Re-throw the error to handle it at a higher level if necessary
+    }
+};
 

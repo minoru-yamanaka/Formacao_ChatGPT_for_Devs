@@ -6,6 +6,7 @@ import Avatar from "../../assets/avatar";
 // user (user | chatgpt)
 // message - aonde vai estar o prompt
 export const ChatMessage = ({message}) =>{
+    return(
     <div className={`chat-message ${message.user === 'gpt'} && "chatgpt"`}
     >
 
@@ -17,13 +18,14 @@ export const ChatMessage = ({message}) =>{
         >
             {message.user === 'gpt' && (<Avatar/>)}
             
-        </div> // fim de div do avatar 
+        </div> 
 
         <div className="message">
             {message.message}
-        </div> // fim de div message
+        </div> 
 
-    </div> // fim da div chat-message-center
+    </div> 
         
-    </div> // fim de div chat-message
+    </div> 
+)
 }
