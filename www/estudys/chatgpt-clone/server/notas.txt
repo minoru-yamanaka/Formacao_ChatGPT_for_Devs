@@ -1,2 +1,12 @@
-package.json retirei de;
+crie um arquivo .env nesta pasta e add:
+
+OPENAI_API_KEY="sua url api do chatgpt"
+PORT=5000
+
+---
+
+Observações:
+
+	package.json retirei de;
      "scripts": {"test": "echo \"Error: no test specified\" && exit 1"}
+
