@@ -3,9 +3,17 @@ Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) , e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## 0.1.2 - 2024-02-29
+
+### Adicionado
+- [Artigo DESAFIO](/Escolhendo_a_Melhor_Maneira_de_Conversar.pdf)
+- 9_Criando_Artigo_Tecnicos_com_ChatGPT_e_Lexica
+- 8_Materiais_de_Apoio.txt
+
+
 ## 0.1.1 - 2024-02-29
 
-### Added
+### Adicionado
 - [LINK do REPOSITÓRIO EXEMPLO](https://github.com/felipeAguiarCode/node-react-chatgpt-clone/tree/main/server)
 - Trabalhando com formulário e prevenção de eventos
 - Estilizando a app principal

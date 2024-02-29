@@ -1,0 +1,96 @@
+ChatGPT - Criando Sua Autoridade Tech
+Criando Artigos Técnicos com ChatGPT e Lexica.art
+
+--
+INFORMAÇÕES
+
+    DESCRIÇÃO
+    Vamos ver o passo a passo para recriar um artigo técnico de qualidade a fim de criar uma autoridade técnica, tudo isso vendo um modelo de artigo magnético e agradável de ler, além disso, vamos utilizar o Lexica.art, uma ferramenta de IA para geração de imagens além de ter um banco de imagens gratuitas.
+
+    #ChatGPT #EngenhariadePrompt #IAGenerativa
+
+CONTEÚDOS
+
+1 Criando artigos técnicos
+    Laboratório de criatividade
+
+2 Criando artigos épicos e éticos
+    Artigos de qualidade
+     
+3 Definindo o Assunto e Tema de Artigo
+    # CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+
+    1 Título chamativo: headline
+    2 Imagem de capa chamativa
+    3 Definir o assunto e blocos do artigo
+    4 Postar o artigo com um call to actlon
+
+4 Criando Capas Profissionais
+    Assunto:
+        Angular - diretivas
+
+    > crie headlines(Titles) para nomes de artigos < Assunto >
+
+        Capa > imagem 
+    utlizar o power point como ferramentas de ideas
+    lexica -> gera imagens e deixa elas livres paaraa ussuáarios
+
+    largura 33,867
+    altura 8,467
+
+    Banner 
+
+    add formas -> retangulo -> jogar para trás -> definir forma -> preenchimento de gradiente 
+
+    < manipular no power point >
+
+    salvar como png 
+
+5 Prompts ricos para gerar artigos
+
+    capa + imagem = atenção 
+    
+    dividir em blocos F
+
+    exemplo:
+
+    Ilustrações de capa: gerado por lexica.art
+    Conteúdo gerado por: ChatGPT e revisões humanas
+
+    {REGRAS}
+    > Comporte-se como um escritor de artigos tech frnt-end
+    > No máximo 5 linhas por blocos de explicação
+    > Me explique de maneira informal, como se eu fosse uma criança 
+    > os blocos que serão criados abaixo: 
+
+    ## Blocos
+        - O que são diretivas no An utar
+        - O ue são diretivas estru urais
+        ite exemplos com código de diretivas estrutu
+        O gue são diretivas de atributos
+        - Cite exemplos com código de diretivas atributos
+        - Faça um call to action ara as minhas redes sociais
+        - Co Loque 3 hashtags que açam sentido
+
+    > separe por blocos 
+
+6 Decupação do artigo
+
+    separe e incremente por blocos com exemplos 
+
+    ...
+
+7 Escrevendo partes manuais
+    - fim 
+    - fontes 
+    - hashtagss 
+    
+8 Formatando o Artigo
+
+    - Remove bg  
+
+9 Tornando seu artigo mais agradável de ler
+
+10 Próximos passos
+
+11 Entendendo o Desafio
