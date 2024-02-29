@@ -1,0 +1,3 @@
+[submodule "www/estudys/chatgpt-clone/web"]
+	path = www/estudys/chatgpt-clone/web
+	url = https://github.com/exemplo/web.git
