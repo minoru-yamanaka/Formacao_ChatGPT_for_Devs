@@ -48,20 +48,72 @@ Como Utilizar o ChatGPT para Refatorar Códigos
 
     2.4 Single Responsability com chatgpt
 
+        Melhorando a organização do arquivo no projeto com ChatGPT ( sempre checando o retorno )
+
     2.5 Simplificação de código
 
-    2.6 Código Mais legível
+        Prompt: Simplifique o bloco de código e abaixo e me explique o que foi feito 
+        código legível , e não é um code com o menor número de linhas 
 
+    2.6 Código Mais legível
+        refatore o código para o tornar mais legível e humana 
+    
     2.7 Aplicar paradigmas de programação
+        Seguir paradigma e padronizar exemplo: < PPO > ou < Funcional >
 
     2.8 Insights de limpeza no seu código
+        Prompt: remove partes desnecessárias do código   
 
     2.9 Modularizando seu código
+        Prompt: modifique este código para o tornar mais modular
+        Retorno: separa os arquivos por seções 
 
     2.10 Conjunto de boas práticas
+        Prompt: Aplique as boas práticas do clean code no código abaixo e me explique o que foi feito
+        Retorno: Fornece Insights, para o code 
 
     2.11 Refatorando a estrutura de pastas e combinando técnicas
+        Prompt: crie uma sugestão de estrutura de pastas, mais organizada e com boas práticas, para projetos que contenham:
+
+        - arquivos html, css, javascript, imagem, arquivo javascript de um app node
+
+        Retorno: 
+
+        Projeto/
+        │
+        ├── public/
+        │   ├── index.html
+        │   ├── styles/
+        │   │   └── style.css
+        │   ├── scripts/
+        │   │   └── script.js
+        │   └── images/
+        │       └── logo.png
+        │
+        └── server/
+            ├── app.js
+            ├── routes/
+            │   └── index.js
+            └── controllers/
+                └── mainController.js
+
+        Explicação da estrutura:
+
+        public/: Esta pasta contém todos os arquivos públicos do seu projeto, como HTML, CSS, JavaScript e imagens que serão acessados diretamente pelo navegador. Isso separa claramente os arquivos que são servidos aos clientes.
+
+        index.html: O arquivo HTML principal do seu projeto.
+        styles/: Pasta para armazenar arquivos CSS.
+        scripts/: Pasta para armazenar arquivos JavaScript.
+        images/: Pasta para armazenar imagens e outros recursos visuais.
+        server/: Esta pasta contém todos os arquivos relacionados ao servidor Node.js, como o arquivo principal do aplicativo, rotas e controladores. Isso mantém separada a lógica do servidor da parte do cliente do projeto.
+        app.js: O arquivo JavaScript principal que inicializa o servidor Node.js.
+        routes/: Pasta para armazenar os arquivos de rota do Express.js.
+        controllers/: Pasta para armazenar os controladores que manipulam a lógica de negócios da sua aplicação.
+
+        Essa estrutura de pastas ajuda a manter seu projeto organizado e seguindo as boas práticas, separando claramente as responsabilidades entre o lado do cliente e do servidor.
 
 3 Sua próxirna jornada
 
     3.1 Como continuar evoluindo
+        Estruturar Layout de códigos com padrões de boas práticas  
+

@@ -1,0 +1,127 @@
+ChatGPT - Uso para Desenvolvedores
+Como Utilizar o ChatGPT como Copiloto de Programação
+
+--
+
+1 Introdução
+
+    1.1 Copiloto de código
+        Você é o Copiloto de código e não o ChatGPT 
+
+    1.2 Regras do Jogo
+        Declarar inputs e outputs esperados e Parametrizar
+        Trabalha a nível de unidade ( por função )
+
+2 Pair Programming with GPT
+
+    2.1 Solicitando unidades com conjuntos de regras
+         Crie uma funçao que retorne apenas os números do conteúdo Alfanumérico
+            > Linguagem: JavaScript
+            > Input: code:string 
+            > output: numberId:number
+            > Aplique boas práticas de Clean Code
+
+        Retorna uma função 
+
+    2.2 Crie funções explicitadas
+        Indução 
+        Prompt: 
+        implemente a lógica da função abaixo em JavaScript
+        //passa coordenadas de latitude e longitude e retorna código de cep do local 
+        function getZipCode(latitude: number, longitude: number){
+
+        }
+        Retorna: uma função 
+    
+    2.3 Criando testes unitários com GPT
+
+        Prompt:
+
+        {REGRAS}
+        > linguagem: Javascript
+        > Utilize a biblioteca  JEST
+        > Crie pelo menos 3 testes unitários
+
+        Retorna uma implementação 
+
+        Use a IA para fazer testess  
+            
+    2.4 Desacoplando códigos
+
+        Podemos refatorar de tudo 
+
+        refatore o código abaixo aplicando os conceitos de clean code e Single Responsability
+        < code >
+        {REGRAS}
+        > Linguagem Javascript
+        > Crie um código que seja Testável
+        > E implemente ao menos 1 teste utilizando JEST
+
+        ele retorna code para testes
+
+    2.5 Entendendo Racional de códigos
+
+        me explica o que essa função < linguagem > esta fazendo e adicione comentários
+
+        nota: 
+        Dependências em linguagens de programação são bibliotecas ou pacotes externos necessários para que um programa funcione corretamente, fornecendo funcionalidades adicionais ou acessando recursos específicos do sistema.
+    
+    2.6 Convertendo códigos e tornando-os mais amigáveis
+        > converta esse de JAVASCRIPT para .NET C#
+        > adcione comentários e me explique o código
+        > refaça o código de uma maneira mais simples e entendível por humanos
+    
+3 Documentações Profissionais e Instantaneas
+
+    3.1 Criando documentações generalistas automáticas
+        faça uma documentação da função abaixo: < função >
+
+        Para documentar Javascript, recomendo o uso do padâo descrito em JSDoc, cuja página com documentação explicativa é ngp://useisdoç.orgl. Além de dizer em detalhes um padrão que IDEs como Netbeans e Eclipse entendem, o JSDoc também tem uma ferramenta que funciona por linha
+        de comando que lé seu código e converte ele em um manual em HTML pronto para uso.
+    
+    3.2 Criando documentações de modelos específicos
+
+        crie uma documentação para função abaixo, no mesmo modelo dessa documentação: < documentação >
+
+        -> Use um template de documentação para padronizar 
+    
+    3.3 Comentários baseados em template
+
+        Passe um modelo específico 
+
+        {MODELO} 
+        < template >
+
+4 Utilidades
+
+    4.1 GPT as a MENTOR
+        ideias 
+
+        me ajude a criar este projeto abaixo , me indicando como fazer e quais bibliotecas utilizar para construir na maneiras prática
+
+        {REGRAS}
+        - Linguagem: TypeScript
+        - Plataforma: Node
+        - Crie no padrão de Clean Arch
+        
+        {FEATURES}
+        - Realizar o upload de uma imagem 
+        - Validar o número do cartão de crédito de um usuário
+
+        escreva a partir do passo: 
+
+        implemente < ... >
+
+    4.2 Criando uma cheat-sheet
+
+        guia rápido 
+
+        crie uma cheat-sheet para os principais comandos < app >
+
+        exemplo: 
+        - Crie uma cheat-sheet para os principais comandos PowerShell
+        - Crie cheat-sheet com alguns dos principais propriedades do CSS
+
+
+        7_Integrando_o_ChatGPT_com_Node_e_React.txt
+    
