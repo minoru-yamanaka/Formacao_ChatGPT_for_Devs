@@ -6,6 +6,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 ## 0.1.1 - 2024-02-29
 
 ### Added
+- [LINK do REPOSITÓRIO EXEMPLO](https://github.com/felipeAguiarCode/node-react-chatgpt-clone/tree/main/server)
 - Trabalhando com formulário e prevenção de eventos
 - Estilizando a app principal
 - Node Watch
