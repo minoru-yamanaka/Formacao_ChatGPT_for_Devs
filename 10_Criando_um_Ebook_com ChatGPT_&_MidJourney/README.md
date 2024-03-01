@@ -5,7 +5,6 @@
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
@@ -18,7 +17,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Link do repositório com o .pdf e o pptx</a>
+<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Link do repositório com o .pdf e o .pptx</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
