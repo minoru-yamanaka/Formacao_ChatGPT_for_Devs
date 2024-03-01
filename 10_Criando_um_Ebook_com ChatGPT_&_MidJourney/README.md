@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Link do repositório com o ./pdf e o pptx</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
