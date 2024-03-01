@@ -53,4 +53,4 @@ CONTEÚDOS
 
 17 Utilizando seu ebook para aumentar sua autoridade
 
-    https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20template.pptx
+    https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main?tab=readme-ov-file
