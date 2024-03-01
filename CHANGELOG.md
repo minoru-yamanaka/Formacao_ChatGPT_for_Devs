@@ -3,6 +3,11 @@ Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) , e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## 0.1.4 - 2024-03-01
+
+### Adicionado
+- 11_Criando_um_Podcast_com_IAS_Generativas
+
 ## 0.1.3 - 2024-03-01
 
 ### Adicionado

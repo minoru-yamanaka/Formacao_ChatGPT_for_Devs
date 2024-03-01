@@ -78,3 +78,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ---
 
 ⌨️ com 💜 por [Minoru Yamanaka](https://github.com/minoru-yamanaka)
+
+
+

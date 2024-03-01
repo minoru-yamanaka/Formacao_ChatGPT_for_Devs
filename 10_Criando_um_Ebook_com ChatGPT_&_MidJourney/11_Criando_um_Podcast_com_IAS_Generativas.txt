@@ -1,0 +1,35 @@
+Criando um Podcast com IAs Generativas
+
+--
+
+INFORMAÇÕES
+
+DESCRIÇÃO
+
+Chegou a hora de pôr as ferramentas de IA a prova, vamos construir um podcast utilizando ferramentas de IA para isso, vamos utilizar o ChatGPT para criar um título atrativo e um roteiro magnético para o nosso podcast, vamos extrair o máximo de poder do Midjourney para gerar uma capa personalizada e ainda utilizar o ElevenLabs para gerar um conteúdo de voz mais humanizado
+
+#ChatGPT #EngenhariadePrompt #IAGenerativa
+
+--
+
+CONTEÚDOS
+
+1 Por que criar um podcast?
+
+2 Definição de um grupo
+
+3 O que é prompt Engineering
+
+4 Como escrever prompts melhores
+
+5 Conceitos avançados de prompt
+
+6 Criando um titulo poderoso
+
+7 Imagem de capa e dicas de 9 midjourney
+
+8 Criando um roteiro com variáveis
+
+9 Gerando o audio com Eleven Labs
+
+10 Editando seu podcast de maneira fácil
