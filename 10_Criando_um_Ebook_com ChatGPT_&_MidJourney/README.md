@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Link do repositório com o ./pdf e o pptx</a>
+<a href="https://github.com/minoru-yamanaka/Formacao_ChatGPT_for_Devs/tree/main/10_Criando_um_Ebook_com%20ChatGPT_%26_MidJourney" title="View PDF now"> 📕Link do repositório com o .pdf e o pptx</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -57,25 +57,25 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
     <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/minoru-yamanaka?v=4
-      "
+      align="left" 
+      margin="10" 
+      width="80" 
+      src="https://avatars.githubusercontent.com/minoru-yamanaka?v=4"
     />
-    <p>&nbsp&nbsp&nbspMinoru Yamanaka<br>
-    &nbsp&nbsp&nbsp
+    <br>&nbsp;&nbsp;&nbsp;Minoru Yamanaka<br>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/minoru-yamanaka">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/minoru-yamanaka-2272a6243/">LinkedIn</a>
-&nbsp;|&nbsp;
+    &nbsp;|&nbsp;
     <a href="https://www.instagram.com/minoruyamanaka09/">
     Instagram</a>
-&nbsp;|&nbsp;</p>
+    &nbsp;|&nbsp;
 </p>
-<br/><br/>
+<br/>
+
 <p>
 
 ---
 
-⌨️ com 💜 por [Minoru Yamanaka](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Minoru Yamanaka](https://github.com/minoru-yamanaka)
