@@ -3,6 +3,12 @@ Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) , e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## 0.1.3 - 2024-03-01
+
+### Adicionado
+- 10_Criando_um_Ebook_com ChatGPT_&_MidJourney
+
+
 ## 0.1.2 - 2024-02-29
 
 ### Adicionado
@@ -74,3 +80,5 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 
 ### Adicionado
 - Subi os arquivos .txt com minhas anotações.
+
+

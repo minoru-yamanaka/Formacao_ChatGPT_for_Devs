@@ -1,0 +1,56 @@
+Criando um Ebook com ChatGPT & MidJourney
+
+--
+INFORMAÇÕES
+
+DESCRIÇÃO
+Vamos construir um eBook profissional do zero, desde a crianção de um título poderoso até a diagramação do conteúdo, de uma maneira que tenha identidade única, um posicionamento coerente e um layout padronizado e agradável de ler em praticamente qualquer tela.
+
+#ChatGPT# #EngenhariadePrompt #IAGenerativa
+
+ --
+
+CONTEÚDOS
+
+1  Criando um Ebook do zero
+    Processo criativo
+
+2 A receita pra um ebook profissional
+    ferramentas 
+
+3 Criando um título poderoso
+    ideias
+
+4 Conhecendo o Midjourney
+
+5 Construindo uma imagem com Midjourney
+
+6 Montando a capa do nosso ebook na prática
+
+7 Criando um título estiloso pro seu ebook
+
+8 Padrões estruturais como Designers fariam
+    multiplos de 8 font 
+    8 , 16 , 24 de 8 em 8 eu usei 88 
+    fontes serifadas
+
+9 Modelos de Layout de ebook
+
+10 Criando uma página de capítulo
+ 
+11 Posicionando elementos 
+
+12 Do Prompt ao insert de conteúdos
+    gerando conteúdo 
+    
+13 Como compartilhar código de maneira elegante
+
+14 Colocando o conteúdo geral no ebook
+
+15 Finalizando Layouts
+
+16 Criando um agradecimento
+
+17 Utilizando seu ebook para aumentar sua autoridade
+
+    https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20template.pptx
